@@ -2,7 +2,7 @@
 <body>
     <p align="center"> <img src="https://capsule-render.vercel.app/api?text=ciao%20tutti&animation=fadeIn&type=waving&color=gradient&height=100"/> </p> 
     <h1 class="abel">Hello, I'm Balkis</h1>
-    <h2>Research Master's Student in Artificial Intelligence & IoT</h2>
+    <h2>Research Master's Student in Artificial Intelligence & IoT <b> @ENSI, Tunisia</b></h2>
     <p class="abel">Exploring Edge AI, Federated Learning, IoT Security, Smart Systems.</p>
 
     <p>
