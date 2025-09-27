@@ -2,7 +2,7 @@
   <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header&text=Hey%20Everyone!%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=ciao%20tutti&reversal=true&fontAlignY=66&animation=twinkling&descAlign=95&descAlignY=8)"/>
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#00f2fe">Your Name</span> 👨‍💻</h1>
+<h1 align="center">Hi, I'm <span style="color:#00f2fe">Balkis</span> 👨‍💻</h1>
 
 <p align="center">
   🎓 Research Master's Student in <b>Artificial Intelligence & Internet of Things</b> at <b>ENSI, Tunisia</b>  
