@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?text=ciao%20tutti&animation=fadeIn&type=waving&color=gradient&height=100"/> </p>
 
-<h1 align="center">i'm balkis 👨‍💻</h1>
+<h1 align="center">i'm balkis </h1>
 
 <p align="center">
    Research Master's Student in <b>Artificial Intelligence & Internet of Things</b>  <b>@ ENSI, Tunisia  </b>  <br>
@@ -13,7 +13,7 @@
 
 
 
----
+-
 
 
 
