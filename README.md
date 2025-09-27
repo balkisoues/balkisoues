@@ -22,44 +22,11 @@
 
 ---
 
-## 📌 Highlight Projects  
 
-- 🔹 [**Smart Home Anomaly Detection**](./AI-IoT-Integration/Smart-Home-Anomaly-Detection)  
-   Detect unusual power consumption patterns using ML models.  
-
-- 🔹 [**Edge AI with TinyML**](./IoT-Systems/Edge-AI-TinyML)  
-   Deploy lightweight ML models on ESP32 microcontrollers.  
-
-- 🔹 [**Federated Learning for IoT**](./Research-Projects/Federated-Learning-IoT)  
-   Privacy-preserving AI training across distributed IoT devices.  
-
-- 🔹 [**IoT Cybersecurity IDS**](./Research-Projects/IoT-Cybersecurity-IDS)  
-   Intrusion detection using AI to protect IoT networks.  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Scikit--Learn-green?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-ESP32-black?logo=espressif&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Raspberry%20Pi-darkgreen?logo=raspberrypi&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=for-the-badge"/>
-</p>
-
----
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balkisoues&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balkisoues&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## ✨ Fun Side  
 
