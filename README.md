@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
@@ -9,8 +9,6 @@
   🔬 Exploring <b>Edge AI, Federated Learning, IoT Security, Smart Systems</b>  
   🚀 Passionate about bridging <b>AI models</b> with <b>real-world IoT devices</b>
 </p>
-
----
 
 ## 🌐 Connect with Me  
 
@@ -31,4 +29,4 @@
 
 ---
 
-⭐️ From [Your Name](https://github.com/balkisoues)
+⭐️ From Balkis(https://github.com/balkisoues)
