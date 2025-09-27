@@ -1,22 +1,22 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?text=ciao%20tutti&animation=fadeIn&type=waving&color=gradient&height=100"/> </p>
-
-<h1 align="center">i'm balkis </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=ciao%20tutti&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <p align="center">
-   Research Master's Student in <b>Artificial Intelligence & Internet of Things</b>  <b>@ ENSI, Tunisia  </b>  <br>
-   Exploring <b>Edge AI, Federated Learning, IoT Security, Smart Systems</b>  <br>   
-   Passionate about bridging <b>AI models</b> with <b>real-world IoT devices</b>&nbsp;&nbsp;
+  <img src="https://capsule-render.vercel.app/api?text=i'm%20balkis&font=Abel&color=gradient&height=80"/>
+</p>
+
+<p align="center">
+  Research Master's Student in **Artificial Intelligence & Internet of Things**  <br>
+  Exploring **Edge AI, Federated Learning, IoT Security, Smart Systems**  <br>
+  Passionate about bridging **AI models** with **real-world IoT devices**  
+  <br>
   <a href="https://www.linkedin.com/in/balkis-oues/">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 </p>
 
-
-
--
-
-
-
+---
 
 <p align="center">
   <img 
@@ -25,28 +25,6 @@
   />
 </p>
 
+---
 
-
--
-
-⭐️ From balkis (https://github.com/balkisoues)
-
-<head>
-  <style>
-    body {
-      font-family: "Times New Roman", serif;
-    }
-    h1 {
-      font-family: "Courier New", monospace;
-      color: blue;
-    }
-  </style>
-</head>
-<body>
-  <p>This paragraph uses Times New Roman.</p>
-  <h1>This header uses Courier New.</h1>
-</body>
-
-
-<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-<p style="font-family: 'Roboto', sans-serif;">This text uses Roboto font.</p>
+⭐️ From [balkis](https://github.com/balkisoues)
