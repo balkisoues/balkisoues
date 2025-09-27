@@ -6,10 +6,11 @@
   🎓 Research Master's Student in <b>Artificial Intelligence & Internet of Things</b> @ <b>ENSI, Tunisia</b>  
   🔬 Exploring <b>Edge AI, Federated Learning, IoT Security, Smart Systems</b>  
   🚀 Passionate about bridging <b>AI models</b> with <b>real-world IoT devices</b>
-  <a href="https://www.linkedin.com/in/name/">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  <a href="https://www.linkedin.com/in/balkis-oues/">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 </p>
+
 
 
 ---
