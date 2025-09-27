@@ -19,8 +19,13 @@
 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV0bGNvNmh0dzhmcHYxYWVmNmdpbzFqZ2tlMDF1YjB1Y3VzZWVpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35NGT2lm6mfHlNAkMu/giphy.gif" width="400"/>
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV0bGNvNmh0dzhmcHYxYWVmNmdpbzFqZ2tlMDF1YjB1Y3VzZWVpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35NGT2lm6mfHlNAkMu/giphy.gif" 
+    style="width:100%; max-width:800px; display:block; margin:auto;"
+  />
 </p>
+
+<hr>
 
 ---
 
