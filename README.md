@@ -30,3 +30,23 @@
 -
 
 ⭐️ From balkis (https://github.com/balkisoues)
+
+<head>
+  <style>
+    body {
+      font-family: "Times New Roman", serif;
+    }
+    h1 {
+      font-family: "Courier New", monospace;
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+  <p>This paragraph uses Times New Roman.</p>
+  <h1>This header uses Courier New.</h1>
+</body>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<p style="font-family: 'Roboto', sans-serif;">This text uses Roboto font.</p>
