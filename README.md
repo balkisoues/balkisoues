@@ -3,8 +3,8 @@
 <h1 align="center">i'm balkis 👨‍💻</h1>
 
 <p align="center">
-   Research Master's Student in <b>Artificial Intelligence & Internet of Things</b>  <b>@ ENSI, Tunisia  </b>  
-   Exploring <b>Edge AI, Federated Learning, IoT Security, Smart Systems</b>  
+   Research Master's Student in <b>Artificial Intelligence & Internet of Things</b>  <b>@ ENSI, Tunisia  </b>  <br>
+   Exploring <b>Edge AI, Federated Learning, IoT Security, Smart Systems</b>  <br>   
    Passionate about bridging <b>AI models</b> with <b>real-world IoT devices</b>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/balkis-oues/">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
