@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https:///api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=100](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=ciao%20tutti&reversal=true&fontAlignY=66&animation=twinkling&descAlign=95&descAlignY=8)"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?text=ciao%20tutti&animation=fadeIn&type=waving&color=gradient&height=100"/> </p>
 
 <h1 align="center">Hi, i'm balkis 👨‍💻</h1>
 
